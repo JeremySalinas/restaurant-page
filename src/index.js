@@ -2,7 +2,8 @@ import homePage from "./home.js";
 import menuPage from "./menu.js";
 import contactPage from "./contact.js";
 import "./styles/styles.css";
-import "./styles/home.css";
+
+// homePage();
 
 document
   .getElementsByClassName("tab-option")[0]

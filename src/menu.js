@@ -1,3 +1,5 @@
+// import "./styles/menu.css";
+
 function menuPage() {
     let page = document.getElementById("pages");
   

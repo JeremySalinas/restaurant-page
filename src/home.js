@@ -1,3 +1,5 @@
+import "./styles/home.css";
+
 function homePage() {
   let page = document.getElementById("pages");
   let home = document.createElement("div");
