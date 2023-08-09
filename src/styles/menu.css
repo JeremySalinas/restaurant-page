@@ -1,0 +1,33 @@
+.menu-page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 500px;
+    width: 1150px;
+}
+
+.top-row{
+    display: flex;
+}
+
+.food-items{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin: 60px;
+}
+
+.food-items>*{
+    text-align: center;
+    width: 155px;
+    height: 155px;
+    color: white;
+    font-family: none;
+}
+
+.menu-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

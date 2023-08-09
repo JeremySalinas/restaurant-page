@@ -39,7 +39,6 @@ function contactPage() {
   contact.appendChild(div2);
   div2.appendChild(callText);
   div2.appendChild(phoneNum);
-  console.log("hello")
   }
 
 export default contactPage;
