@@ -3,7 +3,7 @@ import menuPage from "./menu.js";
 import contactPage from "./contact.js";
 import "./styles/styles.css";
 
-// homePage();
+homePage();
 
 document
   .getElementsByClassName("tab-option")[0]
